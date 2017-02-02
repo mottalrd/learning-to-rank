@@ -23,4 +23,3 @@ scikit-learn==0.17
 simplegeneric==0.8.1
 six==1.10.0
 traitlets==4.0.0
-scikit-neuralnetwork==0.7
