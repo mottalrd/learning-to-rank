@@ -6,6 +6,7 @@ ipython==4.0.1
 ipython-genutils==0.1.0
 jupyter-client==4.1.1
 jupyter-core==4.0.6
+Lasagne==0.1
 numpy==1.10.2
 pandas==0.17.1
 path.py==8.1.2
@@ -18,8 +19,10 @@ python-dateutil==2.4.2
 pytz==2015.7
 pyzmq==15.1.0
 rpy2==2.7.5
-scipy==0.16.1
 scikit-learn==0.17
+scikit-neuralnetwork==0.7
+scipy==0.16.1
 simplegeneric==0.8.1
 six==1.10.0
+Theano==0.8.2
 traitlets==4.0.0
