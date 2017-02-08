@@ -1,4 +1,5 @@
 appnope==0.1.0
+cycler==0.10.0
 decorator==4.0.6
 gnureadline==6.3.3
 ipykernel==4.2.1
@@ -7,6 +8,7 @@ ipython-genutils==0.1.0
 jupyter-client==4.1.1
 jupyter-core==4.0.6
 Lasagne==0.1
+matplotlib==2.0.0
 numpy==1.10.2
 pandas==0.17.1
 path.py==8.1.2
@@ -14,6 +16,7 @@ pexpect==4.0.1
 pickleshare==0.5
 ptyprocess==0.5
 py==1.4.31
+pyparsing==2.1.10
 pytest==2.8.5
 python-dateutil==2.4.2
 pytz==2015.7
