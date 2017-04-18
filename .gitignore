@@ -3,3 +3,4 @@
 *.csv
 .cache
 *.pyc
+*.greedy_out.txt
