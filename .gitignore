@@ -2,5 +2,5 @@
 *.ipynb_checkpoints
 *.csv
 .cache
-*.pyc
-*.greedy_out.txt
+**pyc
+**greedy_out.txt
